@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aaldwyn
 - 👀 I’m interested in: programming
-- 🌱 I’m currently learning: Python and Java
+- 🌱 I’m currently learning: Python and Java and gamemaker
 - 💞️ I’m looking to collaborate on: not really anything at the moment
 - 📫 How to reach me: email (although at the moment I don't check it that often)
 
