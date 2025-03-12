@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @aaldwyn
+- 👋 Hi, I’m Arthur Leonard (@aaldwyn)
 - 👀 I’m interested in: programming
-- 🌱 I’m currently learning: Python, Java and gamemaker
+- 🌱 I’m currently learning: Python, Java
 - 💞️ I’m looking to collaborate on: not really anything at the moment
-- 📫 How to reach me: email (although at the moment I don't check it that often)
+- 📫 How to reach me: email is best
 
 <!---
 aaldwyn/aaldwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
