@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Arthur Leonard (@aaldwyn)
 - 👀 I’m interested in: programming
-- 🌱 I’m currently learning: Python, Java
+- 🌱 I’m currently learning: Python, Java, and C
 - 💞️ I’m looking to collaborate on: not really anything at the moment
 - 📫 How to reach me: email is best
 
